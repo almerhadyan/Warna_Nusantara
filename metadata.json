@@ -1,0 +1,6 @@
+{
+  "name": "Warta Nusantara — Portal Berita & Jurnalistik Editorial",
+  "description": "Portal berita terkini Indonesia dengan antarmuka editorial interaktif, kurasi multi-rubrik CNN Indonesia, mode baca imersif, dan pencarian instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
